@@ -15,3 +15,5 @@ valor de cada uno.[ Hacer click para más detalles.](Ejercitacion.pdf)
 ## Contribuciones
 
 Si deseas colaborar en este proyecto o tienes alguna pregunta sobre las consignas, no dudes en abrir un [issue](https://github.com/tuusuario/turepositorio/issues) o enviar un [pull request](https://github.com/Matiaswyso/UTN-REACT-Ejercicio1/pulls). ¡Esperamos que este ejercicio sea una experiencia de aprendizaje exitosa!
+
+## Hecho por Matías Wysoczanski
